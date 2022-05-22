@@ -1,5 +1,5 @@
 # Simon Game
 
-Um site simples utilizando JS do clássico jogo Simon. 
+O clássico jogo Simon feito em JS.
 
-[Simon Game Screenshot](image/simon-game.png)
+![Simon Game Screenshot](image/simon-game.png)
